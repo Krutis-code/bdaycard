@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bdaycard/static/css/main.c1a004a9.chunk.css",
+    "main.js": "/bdaycard/static/js/main.ada51556.chunk.js",
+    "main.js.map": "/bdaycard/static/js/main.ada51556.chunk.js.map",
+    "runtime-main.js": "/bdaycard/static/js/runtime-main.6b198d2e.js",
+    "runtime-main.js.map": "/bdaycard/static/js/runtime-main.6b198d2e.js.map",
+    "static/js/2.899c2595.chunk.js": "/bdaycard/static/js/2.899c2595.chunk.js",
+    "static/js/2.899c2595.chunk.js.map": "/bdaycard/static/js/2.899c2595.chunk.js.map",
+    "static/js/3.a2253e62.chunk.js": "/bdaycard/static/js/3.a2253e62.chunk.js",
+    "static/js/3.a2253e62.chunk.js.map": "/bdaycard/static/js/3.a2253e62.chunk.js.map",
+    "index.html": "/bdaycard/index.html",
+    "static/css/main.c1a004a9.chunk.css.map": "/bdaycard/static/css/main.c1a004a9.chunk.css.map",
+    "static/js/2.899c2595.chunk.js.LICENSE.txt": "/bdaycard/static/js/2.899c2595.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b198d2e.js",
+    "static/js/2.899c2595.chunk.js",
+    "static/css/main.c1a004a9.chunk.css",
+    "static/js/main.ada51556.chunk.js"
+  ]
+}
